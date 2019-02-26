@@ -34,12 +34,12 @@
       $ sudo chmod 777 /dev/ttyUSB0
       $ sudo chmod 777 /dev/ttyACM0
 
-  ## Run robit master node
+  ## Run turtle_master node
   To execute master node commands are:
     
-      $ rosrun robit_master robit_master_node
+      $ rosrun turtle_master turtle_master
     
-  ## Run turtlevision node
+  ## Run turtlev_ision node
   We use ROS usb_cam package. Install the kinetic usb_cam package. 
   Reference link: http://wiki.ros.org/usb_cam
        
