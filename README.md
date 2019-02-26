@@ -82,7 +82,7 @@
     
   Execute turtlevision node.  
   
-      $ rosrun turtlevision turtlevision     
+      $ rosrun turtle_vision turtle_vision     
   
   You can threshold the range of several color in turtlevision node UI and press the "save parameter" to save the range of color. If you press the "run" button, robot will start.
   
